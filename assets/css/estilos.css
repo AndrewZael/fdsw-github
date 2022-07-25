@@ -23,14 +23,10 @@ body {
 #Hero-Section .container{
   z-index: 1;
 }
-/* Mis trabajos */
-
-#Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+.card-text{
+  min-height: 120px;
 }
+/* Mis trabajos */
 
 /* Contacto */
 
